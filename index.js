@@ -1,4 +1,5 @@
 // Code your solution in this file!
-var companyName = "Scuber"
+var companyName =""
+companyName = "Scuber"
 
 let mostProfitableNeighborhood = "Chelsea"
