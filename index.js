@@ -1,3 +1,3 @@
 // Code your solution in this file!
 var companyName
-companyName = 
+companyName = BI-Soft
